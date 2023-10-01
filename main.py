@@ -6,7 +6,7 @@ app_window.geometry("420x150")
 app_window.resizable(1,1)
 
 text_font= ("Boulder", 68, 'bold')
-background = "#f2e750"
+background = "#7ef250"
 foreground= "#363529"
 border_width = 25
 
